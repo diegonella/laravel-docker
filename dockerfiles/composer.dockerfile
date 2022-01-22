@@ -1,4 +1,4 @@
-FROM composer:2
+FROM composer:1
 
 ARG UID
 ARG GID
